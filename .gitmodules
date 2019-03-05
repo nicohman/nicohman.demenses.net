@@ -1,0 +1,3 @@
+[submodule "org_sourcehut"]
+	path = org_sourcehut
+	url = https://git.sr.ht/~nicohman/org-sourcehut
