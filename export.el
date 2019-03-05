@@ -11,7 +11,7 @@
                                      :with-timestamps nil
                                      :html-postamble nil
                                      :html-toplevel-hlevel 3
-                                     :html-head "<link rel=\"Stylesheet\" type=\"text/css\" href=\"style.css\">"
+                                     :html-head "<link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\"><link rel=\"stylesheet\" type=\"text/css\" href=\"fonts.css\">"
                                      :html-link-home "index.html"
                                      :section-numbers nil)
                                     ("nicohman-static" :base-directory "~/nicohman.demenses.net/static"

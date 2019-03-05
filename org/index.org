@@ -1,0 +1,66 @@
+#+TITLE: nicohman
+#+AUTHOR: Nico Hickman
+#+EMAIL: nicohman@demenses.net
+* About Me
+My name is Nico Hickman. I'm a high school senior passionate about coding and hacking, planning to
+major in Computer Science in the fall.
+** Programming
+I've used a variety of languages and frameworks for different projects,
+including:
+
+- Rust for CLI and GUI applications, as well as some libraries
+
+- NodeJS for web servers
+
+- MongoDB for document storage
+
+- Some limited experience in C, C++, and Python.
+
+- Client-side web applications using both jQuery and vanilla JavaScript.
+
+Recently, I swapped from github to [[https://sourcehut.org][sourcehut]] for most of my major projects.
+** Projects
+Here's a list of the projects I've written that I feel are useful enough to
+others to share(though I by no means claim they are all /optimal/).
+*** CLI Apps
+    - [[https://git.sr.ht/~nicohman/eidolon][eidolon]] is a CLI tool written in Rust to manage and launch games on Linux
+      with minimalized bloat.
+    - [[https://git.sr.ht/~nicohman/wyvern][wyvern]] is a Linux client for [[https://gog.com][GOG.com]] that you easily download, update, and
+      sync the save files of games. You can also automatically claim games
+      provided via the GOG Connect program.
+    - [[https://git.sr.ht/~nicohman/raven][raven]] is a Rust-based theme manager for Linux, supporting over 15
+      different ways to customize your rice. It also has a reasonably in-depth
+      wiki [[https://man.sr.ht/~nicohman/raven][here]].
+    - [[https://github.com/nicohman/usb-main][usb-main]] is a nodejs-based tool to download, update, and burn images of
+      Linux distros automatically.
+*** Libraries
+    - [[https://git.sr.ht/~nicohman/butlerd-rs][butlerd-rs]] is a Rust library made to interface with [[https://itch.io][itch.io]]'s [[https://github.com/itchio/butler][butler
+      daemon]]. 
+    - [[https://git.sr.ht/~nicohman/gogapi-rs][gogapi-rs]] is a Rust library for making calls to the GOG web API
+    - [[https://git.sr.ht/~nicohman/ravenlib][ravenlib]] is the library that powers raven, available separately for others
+      to easily build their own clients.
+*** Excursions into the Web
+    - [[https://git.sr.ht/~nicohman/ravenserver][ravenserver]] is an online server for people to share and install raven
+      themes from. I run an instance [[https://demenses.net][here]]. Written using NodeJS, with 0
+      client-side JavaScript
+    - [[https://git.sr.ht/~nicohman/nicohman.demenses.net][nicohman.demenses.net]]: this website, generated using org mode.
+*** Graphical Apps
+    - [[https://git.sr.ht/~nicohman/graven][graven]] is a graphical interface for raven, but is still in alpha.
+*** Games
+    - [[https://github.com/nicohman/joust][joust]] is a reproduction of Joust in Unity. Made as a part of the DigiPen
+      WANIC program, working with a team. I led the programming portion.
+    - [[https://github.com/nicohman/photon_chicken][photon chicken]] is a re-imagining of the arcade game Tron, written in Rust
+      using the piston engine.
+*** Other
+    - [[https://github.com/nicohman/school-alerter][school-alerter]] is a nodejs daemon that scrapes my school's Trumba calender
+      and texts me every morning with what time I have to be at school that day,
+      depending on the class schedule that day.
+    - [[https://git.sr.ht/~nicohman/org-sourcehut][org-sourcehut]] is a theme for the HTML exported by [[https://orgmode.org][Emacs' org mode]] that
+      styles it like [[https://man.sr.ht/~nicohman/raven][man.sr.ht]]. It is also used for this website.
+#+INCLUDE: "downloads.org::*Downloads" :minlevel 1 
+#+INCLUDE: "contact.org::*Contact" :minlevel 1 
+This site is under the MIT License. The CSS for this website comes from
+[[https://sourcehut.org][sourcehut]], where it is also distributed under the MIT license.
+#  LocalWords:  calender WANIC DigiPen Nico NodeJS nicohman
+
+

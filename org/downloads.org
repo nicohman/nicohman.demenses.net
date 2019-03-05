@@ -1,0 +1,35 @@
+#+TITLE: Downloads
+* Downloads 
+  If you want to, you can download some of my projects without compiling it
+  yourself by using one of these options:
+
+** ~crates.io~
+   Some of my projects get published to [[https://crates.io][crates.io]] when their version bumps, and
+   you can use them easily by installing [[https://www.rust-lang.org/tools/install][cargo]] and running ~cargo install
+   <name>~ in your terminal.
+
+*** Applications
+    - [[https://crates.io/crates/eidolon][eidolon]]
+    - [[https://crates.io/crates/raventhemer][raven]] Note: raven is published under the name raventhemer instead of
+      raven, due to naming conflicts
+    - [[https://crates.io/crates/wyvern][wyvern]]
+
+*** Libraries
+    - [[https://crates.io/crates/butlerd][butlerd-rs]]
+    - [[https://crates.io/crates/gog][gog-rs]]
+    - [[https://crates.io/crates/ravenlib][ravenlib]]
+** Packages
+   If you happen to be maintaining a package for one of my projects, please email
+   me and I'll happily add it to this list.
+   - [[https://aur.archlinux.org/packages/eidolon][eidolon]] on the AUR, along with a [[https://aur.archlinux.org/packages/eidolon-git][git version]]
+   - [[https://aur.archlinux.org/packages/wyvern][wyvern]] on the AUR, maintained by [[https://cathoderay.tube/users/PinkCathodeCat][@PinkCathodeCat@cathoderay.tube]]
+   - [[https://snapcraft.io/wyvern][wyvern]] as a snap on snapcraft.io
+** Pre-Compiled Binaries 
+   These projects are available automatically compiled for Arch Linux from the
+   latest git commit. May or may not work on other distros. Their checksums are
+   available [[https://demenses.net/checksums][here]]. These are built using [[https://builds.sr.ht][builds.sr.ht]]
+   - [[https://demenses.net/eidolon-nightly][eidolon]]
+   - [[https://demenses.net/wyern-nightly][wyvern]]
+   - [[https://demenses.net/raven-nightly][raven]] and [[https://demenses.net/ravend-nightly][ravend]]
+   - [[https://demenses.net/graven-nightly][graven]]
+#  LocalWords:  Pre LocalWords snapcraft AUR raventhemer distros checksums

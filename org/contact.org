@@ -1,0 +1,11 @@
+#+TITLE: Contact
+* Contact
+** Direct Contact
+   - Email: [[mailto:nicohman@demenses.net][nicohman@demenses.net]]
+   - [[https://nicohman.demenses.net/public_key.txt][GPG Public Key]]
+   - [[https://keybase.io/nicohman][Keybase]]
+** Forges
+   - [[https://git.sr.ht/~nicohman][sourcehut]]
+   - [[https://github.com/nicohman][GitHub]]
+** Social Media
+   - [[https://cybre.space/@nicohman][Mastodon]]
