@@ -1,8 +1,6 @@
 #+TITLE: Downloads
-* Downloads 
   If you want to, you can download some of my projects without compiling it
   yourself by using one of these options:
-
 ** ~crates.io~
    Some of my projects get published to [[https://crates.io][crates.io]] when their version bumps, and
    you can use them easily by installing [[https://www.rust-lang.org/tools/install][cargo]] and running ~cargo install

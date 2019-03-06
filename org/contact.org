@@ -1,10 +1,10 @@
 #+TITLE: Contact
-* Contact
+  You can contact me through a few different means:
 ** Direct Contact
    - Email: [[mailto:nicohman@demenses.net][nicohman@demenses.net]]
    - [[https://nicohman.demenses.net/public_key.txt][GPG Public Key]]
    - [[https://keybase.io/nicohman][Keybase]]
-** Forges
+** Git Forges
    - [[https://git.sr.ht/~nicohman][sourcehut]]
    - [[https://github.com/nicohman][GitHub]]
 ** Social Media

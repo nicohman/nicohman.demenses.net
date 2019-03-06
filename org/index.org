@@ -57,8 +57,7 @@ others to share(though I by no means claim they are all /optimal/).
       depending on the class schedule that day.
     - [[https://git.sr.ht/~nicohman/org-sourcehut][org-sourcehut]] is a theme for the HTML exported by [[https://orgmode.org][Emacs' org mode]] that
       styles it like [[https://man.sr.ht/~nicohman/raven][man.sr.ht]]. It is also used for this website.
-#+INCLUDE: "downloads.org::*Downloads" :minlevel 1 
-#+INCLUDE: "contact.org::*Contact" :minlevel 1 
+
 This site is under the MIT License. The CSS for this website comes from
 [[https://sourcehut.org][sourcehut]], where it is also distributed under the MIT license.
 #  LocalWords:  calender WANIC DigiPen Nico NodeJS nicohman
