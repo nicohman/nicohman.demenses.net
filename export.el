@@ -11,7 +11,7 @@
                                      :with-timestamps nil
                                      :html-postamble nil
                                      :html-toplevel-hlevel 3
-                                     :html-head "<link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\"><link rel=\"stylesheet\" type=\"text/css\" href=\"fonts.css\">"
+                                     :html-head "<link rel=\"stylesheet\" type=\"text/css\" href=\"original.css\"><link rel=\"stylesheet\" type=\"text/css\" href=\"fonts.css\">"
                                      :html-link-home "index.html"
                                      :section-numbers nil)
                                     ("nicohman-static" :base-directory "~/nicohman.demenses.net/static"
@@ -19,5 +19,10 @@
                                      :publishing-directory "~/nicohman.demenses.net/export"
                                      :publishing-function org-publish-attachment
                                      :recursive t)
-                                    ("nicohman" :components ("nicohman-org" "nicohman-static"))))
+				    ("nicohman-sourcehut"
+				     :base-directory "~/nicohman.demenses.net/org_sourcehut"
+				     :base-extension "css"
+				     :publishing-directory "~/nicohman.demenses.net/export"
+				     :publishing-function org-publish-attachment)
+                                    ("nicohman" :components ("nicohman-org" "nicohman-static" "nicohman-sourcehut"))))
   (org-publish-project "nicohman"))
