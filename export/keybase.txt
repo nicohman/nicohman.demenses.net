@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/nicohman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nicohman.demenses.net
+  * I am nicohman (https://keybase.io/nicohman) on keybase.
+  * I have a public key ASB_mO3lWeoJ2tIbcauakelDhrwLZqJf1mmkntHOpDLoTwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207f98ede559ea09dad21b71ab9a91e94386bc0b66a25fd669a49ed1cea432e84f0a",
+      "host": "keybase.io",
+      "kid": "01207f98ede559ea09dad21b71ab9a91e94386bc0b66a25fd669a49ed1cea432e84f0a",
+      "uid": "6f182ff64d98ebf978c7a5ab77ce1319",
+      "username": "nicohman"
+    },
+    "merkle_root": {
+      "ctime": 1535930727,
+      "hash": "0461c0a21ff088dfc5f735f21c47a8eef734e80ce93f9de893a992d172e611b1a11765c5cca64dc8eff7a0f0c97c93b5b6a7bfb43c4d4215debde046c67e4742",
+      "hash_meta": "d6278d4975a8e533628695a9c1c27f59b30757afc4d1cd1d230adbd95696a8c1",
+      "seqno": 3553581
+    },
+    "service": {
+      "entropy": "QzoY1tbCh1FPJYQCep2q00/q",
+      "hostname": "nicohman.demenses.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.6.0"
+  },
+  "ctime": 1535930670,
+  "expire_in": 504576000,
+  "prev": "5f276a9b12e3b6944b99ab14fef2ed8dd779bb4fa2f587f9890e9ae46d7e5a00",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgf5jt5VnqCdrSG3GrmpHpQ4a8C2aiX9ZppJ7RzqQy6E8Kp3BheWxvYWTESpcCEMQgXydqmxLjtpRLmasU/vLtjdd5u0+i9Yf5iQ6a5G1+WgDEIMrH+5opLrBiOYUgBI5YpEvcQuqvw+ImhO/vq0tmzpz7AgHCo3NpZ8RANKHRbyKOTA4NSEGRB2rvKQuVxB/HozNMy34NYmSS8vjIK/4ljSkDI7HNCfJYNCHlmtOac9Su8jt5xHSOGp53D6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGV0GrdNPjCHugoZqGTQSr5BU2SVyfU4RUAm78Ax5oySo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nicohman
+
+==================================================================
