@@ -24,7 +24,7 @@ Here's a list of the projects I've written that I feel are useful enough to
 others to share(though I by no means claim they are all /optimal/).
 *** CLI Apps
     - [[https://git.sr.ht/~nicohman/eidolon][eidolon]] is a CLI tool written in Rust to manage and launch games on Linux
-      with minimalized bloat.
+      with minimized bloat.
     - [[https://git.sr.ht/~nicohman/wyvern][wyvern]] is a Linux client for [[https://gog.com][GOG.com]] that you easily download, update, and
       sync the save files of games. You can also automatically claim games
       provided via the GOG Connect program.
@@ -34,16 +34,16 @@ others to share(though I by no means claim they are all /optimal/).
     - [[https://github.com/nicohman/usb-main][usb-main]] is a nodejs-based tool to download, update, and burn images of
       Linux distros automatically.
 *** Libraries
-    - [[https://git.sr.ht/~nicohman/butlerd-rs][butlerd-rs]] is a Rust library made to interface with [[https://itch.io][itch.io]]'s [[https://github.com/itchio/butler][butler
-      daemon]]. 
+    - [[https://git.sr.ht/~nicohman/butlerd-rs][butlerd-rs]] is a Rust library made to interface with [[https://itch.io][itch.io]]'s [[https://github.com/itchio/butler][butler daemon]]. 
     - [[https://git.sr.ht/~nicohman/gogapi-rs][gogapi-rs]] is a Rust library for making calls to the GOG web API
     - [[https://git.sr.ht/~nicohman/ravenlib][ravenlib]] is the library that powers raven, available separately for others
       to easily build their own clients.
 *** Excursions into the Web
+    - [[https://git.sr.ht/~nicohman/nicohman.demenses.net][nicohman.demenses.net]]: this website, generated using Emacs' org mode and a
+      few python scripts, served by Flask.
     - [[https://git.sr.ht/~nicohman/ravenserver][ravenserver]] is an online server for people to share and install raven
       themes from. I run an instance [[https://demenses.net][here]]. Written using NodeJS, with 0
       client-side JavaScript
-    - [[https://git.sr.ht/~nicohman/nicohman.demenses.net][nicohman.demenses.net]]: this website, generated using org mode.
 *** Graphical Apps
     - [[https://git.sr.ht/~nicohman/graven][graven]] is a graphical interface for raven, but is still in alpha.
 *** Games
@@ -52,14 +52,15 @@ others to share(though I by no means claim they are all /optimal/).
     - [[https://github.com/nicohman/photon_chicken][photon chicken]] is a re-imagining of the arcade game Tron, written in Rust
       using the piston engine.
 *** Other
+    - [[https://git.sr.ht/~nicohman/org-sourcehut][org-sourcehut]] is a theme for the HTML exported by [[https://orgmode.org][Emacs' org mode]] that
+      styles it like [[https://man.sr.ht/~nicohman/raven][man.sr.ht]]. It is also used for this website.
     - [[https://github.com/nicohman/school-alerter][school-alerter]] is a nodejs daemon that scrapes my school's Trumba calender
       and texts me every morning with what time I have to be at school that day,
       depending on the class schedule that day.
-    - [[https://git.sr.ht/~nicohman/org-sourcehut][org-sourcehut]] is a theme for the HTML exported by [[https://orgmode.org][Emacs' org mode]] that
-      styles it like [[https://man.sr.ht/~nicohman/raven][man.sr.ht]]. It is also used for this website.
 
 This site is under the MIT License. The CSS for this website comes from
-[[https://sourcehut.org][sourcehut]], where it is also distributed under the MIT license.
+[[https://sourcehut.org][sourcehut]], where it is also distributed under the MIT license. If you would like
+to view the source of this site, it is available [[https://git.sr.ht/~nicohman/nicohman.demenses.net][here]].
 #  LocalWords:  calender WANIC DigiPen Nico NodeJS nicohman
 
 
