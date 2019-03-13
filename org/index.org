@@ -2,8 +2,9 @@
 #+AUTHOR: Nico Hickman
 #+EMAIL: nicohman@demenses.net
 * About Me
-My name is Nico Hickman. I'm a high school senior passionate about coding and hacking, planning to
-major in Computer Science in the fall.
+My name is Nico Hickman. I'm a high school senior passionate about coding and
+hacking, planning to attend Western Washington University in the fall with the
+intent of majoring in Computer Science.
 ** Programming
 I've used a variety of languages and frameworks for different projects,
 including:
