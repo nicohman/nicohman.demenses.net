@@ -27,7 +27,7 @@
    latest git commit. May or may not work on other distros. Their checksums are
    available [[https://demenses.net/checksums][here]]. These are built using [[https://builds.sr.ht][builds.sr.ht]]
    - [[https://demenses.net/eidolon-nightly][eidolon]]
-   - [[https://demenses.net/wyern-nightly][wyvern]]
+   - [[https://demenses.net/wyvern-nightly][wyvern]]
    - [[https://demenses.net/raven-nightly][raven]] and [[https://demenses.net/ravend-nightly][ravend]]
    - [[https://demenses.net/graven-nightly][graven]]
 #  LocalWords:  Pre LocalWords snapcraft AUR raventhemer distros checksums
