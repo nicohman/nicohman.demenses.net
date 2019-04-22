@@ -30,4 +30,5 @@
    - [[https://demenses.net/wyvern-nightly][wyvern]]
    - [[https://demenses.net/raven-nightly][raven]] and [[https://demenses.net/ravend-nightly][ravend]]
    - [[https://demenses.net/graven-nightly][graven]]
+   - Wyvern is also available compiled for the ARMV7 architecture [[https://demenses.net/wyvern-1.3.0-armv7][here]].
 #  LocalWords:  Pre LocalWords snapcraft AUR raventhemer distros checksums
