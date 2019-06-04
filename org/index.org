@@ -48,6 +48,9 @@ others to share(though I by no means claim they are all /optimal/).
 *** Graphical Apps
     - [[https://git.sr.ht/~nicohman/graven][graven]] is a graphical interface for raven, but is still in alpha.
 *** Games
+    - [[https://github.com/jakobmcfarland/teamneo][samurai]] is a game about a young man saving his city from samurai, coded in
+      Unity. This was also made for the DigiPen VGP1 WANIC program, as tech
+      director.
     - [[https://github.com/nicohman/joust][joust]] is a reproduction of Joust in Unity. Made as a part of the DigiPen
       WANIC program, working with a team. I led the programming portion.
     - [[https://github.com/nicohman/photon_chicken][photon chicken]] is a re-imagining of the arcade game Tron, written in Rust
