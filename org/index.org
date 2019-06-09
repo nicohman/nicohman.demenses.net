@@ -43,16 +43,16 @@ others to share(though I by no means claim they are all /optimal/).
     - [[https://git.sr.ht/~nicohman/nicohman.demenses.net][nicohman.demenses.net]]: this website, generated using Emacs' org mode and a
       few python scripts, served by Flask.
     - [[https://git.sr.ht/~nicohman/ravenserver][ravenserver]] is an online server for people to share and install raven
-      themes from. I run an instance [[https://demenses.net][here]]. Written using NodeJS, with 0
-      client-side JavaScript
+      themes from. I run an instance [[https://demenses.net][here]]. I recently rewrote it in Rust, using
+      the rocket framework. It was originally written in NodeJS, using express.
 *** Graphical Apps
     - [[https://git.sr.ht/~nicohman/graven][graven]] is a graphical interface for raven, but is still in alpha.
 *** Games
     - [[https://github.com/jakobmcfarland/teamneo][samurai]] is a game about a young man saving his city from samurai, coded in
-      Unity. This was also made for the DigiPen VGP1 WANIC program, as tech
-      director.
-    - [[https://github.com/nicohman/joust][joust]] is a reproduction of Joust in Unity. Made as a part of the DigiPen
-      WANIC program, working with a team. I led the programming portion.
+      Unity. This was made as part of the DigiPen VGP1 WANIC program, where I
+      acted as the tech director.
+    - [[https://github.com/nicohman/joust][joust]] is a reproduction of Joust in Unity. This was also made as a part of
+      the DigiPen program. I led the programming portion.
     - [[https://github.com/nicohman/photon_chicken][photon chicken]] is a re-imagining of the arcade game Tron, written in Rust
       using the piston engine.
 *** Other
