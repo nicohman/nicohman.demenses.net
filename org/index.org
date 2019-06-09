@@ -42,9 +42,10 @@ others to share(though I by no means claim they are all /optimal/).
 *** Excursions into the Web
     - [[https://git.sr.ht/~nicohman/nicohman.demenses.net][nicohman.demenses.net]]: this website, generated using Emacs' org mode and a
       few python scripts, served by Flask.
-    - [[https://git.sr.ht/~nicohman/ravenserver][ravenserver]] is an online server for people to share and install raven
+    - [[https://git.sr.ht/~nicohman/ravenserver-rs][ravenserver]] is an online server for people to share and install raven
       themes from. I run an instance [[https://demenses.net][here]]. I recently rewrote it in Rust, using
       the rocket framework. It was originally written in NodeJS, using express.
+      You can see that outdated version [[https://git.sr.ht/~nicohman/ravenserver][here]] if you want.
 *** Graphical Apps
     - [[https://git.sr.ht/~nicohman/graven][graven]] is a graphical interface for raven, but is still in alpha.
 *** Games
